@@ -1,0 +1,206 @@
+WARNING:tensorflow:From /usr/local/lib/python3.7/site-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+
+INFO:tflog:✔︎ Loading data...
+INFO:tflog:Recommended padding Sequence length is: 100
+INFO:tflog:✔︎ Test data processing...
+INFO:tflog:✔︎ Loading best model...
+INFO:tflog:/Users/liubo22/Downloads/TextPair/TextCNN/runs/1580790756/bestcheckpoints/model-640
+2020-02-05 21:32:16.951884: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+WARNING:tensorflow:From /usr/local/lib/python3.7/site-packages/tensorflow/python/training/saver.py:1266: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+WARNING:tensorflow:From /usr/local/lib/python3.7/site-packages/tensorflow/python/training/saver.py:1266: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+WARNING:tensorflow:From infer1.py:213: convert_variables_to_constants (from tensorflow.python.framework.graph_util_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.compat.v1.graph_util.convert_variables_to_constants
+WARNING:tensorflow:From infer1.py:213: convert_variables_to_constants (from tensorflow.python.framework.graph_util_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.compat.v1.graph_util.convert_variables_to_constants
+WARNING:tensorflow:From /usr/local/lib/python3.7/site-packages/tensorflow/python/framework/graph_util_impl.py:245: extract_sub_graph (from tensorflow.python.framework.graph_util_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.compat.v1.graph_util.extract_sub_graph
+WARNING:tensorflow:From /usr/local/lib/python3.7/site-packages/tensorflow/python/framework/graph_util_impl.py:245: extract_sub_graph (from tensorflow.python.framework.graph_util_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.compat.v1.graph_util.extract_sub_graph
+Building prefix dict from the default dictionary ...
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+Loading model from cache /var/folders/n6/ktt1pk7n0hs06ycjp1mgfpx00000gn/T/jieba.cache
+DEBUG:jieba:Loading model from cache /var/folders/n6/ktt1pk7n0hs06ycjp1mgfpx00000gn/T/jieba.cache
+Loading model cost 0.895 seconds.
+DEBUG:jieba:Loading model cost 0.895 seconds.
+Prefix dict has been built succesfully.
+DEBUG:jieba:Prefix dict has been built succesfully.
+读到500行
+读到1000行
+读到1500行
+读到2000行
+读到2500行
+读到3000行
+读到3500行
+读到4000行
+读到4500行
+读到5000行
+读到5500行
+读到6000行
+读到6500行
+读到7000行
+读到7500行
+读到8000行
+读到8500行
+读到9000行
+读到9500行
+读到10000行
+读到10500行
+读到11000行
+读到11500行
+读到12000行
+读到12500行
+读到13000行
+读到13500行
+读到14000行
+读到14500行
+读到15000行
+读到15500行
+读到16000行
+读到16500行
+读到17000行
+读到17500行
+读到18000行
+读到18500行
+读到19000行
+读到19500行
+读到20000行
+读到20500行
+读到21000行
+读到21500行
+读到22000行
+读到22500行
+读到23000行
+读到23500行
+读到24000行
+读到24500行
+读到25000行
+读到25500行
+读到26000行
+读到26500行
+读到27000行
+读到27500行
+读到28000行
+读到28500行
+读到29000行
+读到29500行
+读到30000行
+读到30500行
+读到31000行
+读到31500行
+读到32000行
+读到32500行
+读到33000行
+读到33500行
+读到34000行
+读到34500行
+读到35000行
+读到35500行
+读到36000行
+读到36500行
+读到37000行
+读到37500行
+读到38000行
+读到38500行
+读到39000行
+读到39500行
+读到40000行
+读到40500行
+读到41000行
+读到41500行
+读到42000行
+读到42500行
+读到43000行
+读到43500行
+读到44000行
+读到44500行
+读到45000行
+读到45500行
+读到46000行
+读到46500行
+读到47000行
+读到47500行
+读到48000行
+读到48500行
+读到49000行
+读到49500行
+读到50000行
+读到50500行
+读到51000行
+读到51500行
+读到52000行
+读到52500行
+读到53000行
+读到53500行
+读到54000行
+读到54500行
+读到55000行
+读到55500行
+读到56000行
+读到56500行
+读到57000行
+读到57500行
+读到58000行
+读到58500行
+读到59000行
+读到59500行
+读到60000行
+读到60500行
+读到61000行
+读到61500行
+读到62000行
+读到62500行
+读到63000行
+读到63500行
+读到64000行
+读到64500行
+读到65000行
+读到65500行
+读到66000行
+读到66500行
+读到67000行
+读到67500行
+读到68000行
+读到68500行
+读到69000行
+读到69500行
+读到70000行
+读到70500行
+读到71000行
+读到71500行
+读到72000行
+读到72500行
+读到73000行
+读到73500行
+读到74000行
+读到74500行
+读到75000行
+读到75500行
+读到76000行
+读到76500行
+读到77000行
+读到77500行
+读到78000行
+读到78500行
+读到79000行
+读到79500行
+读到80000行
+读到80500行
+读到81000行
+读到81500行
+读到82000行
+读到82500行
+读到83000行
+读到83500行
+读到84000行
+读到84500行
+读到85000行
